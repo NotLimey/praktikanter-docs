@@ -1,1 +1,1 @@
-# praktikanter-readme
+# Praktikanter
