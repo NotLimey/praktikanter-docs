@@ -2,6 +2,7 @@
 
 Bytt ut my-app med hva du vil kalle prosjektet
 ```
+npm install --global yarn
 yarn create react-app my-app --template typescript
 ```
 
@@ -13,3 +14,10 @@ Legg til tailwind i prosjektet, følg denen [guiden](https://tailwindcss.com/doc
 yarn start
 ```
 Også prøver dere og endre noe i `App.tsx` filen under mappen `src` og ser endringene live på siden
+
+```jsx
+return (
+  <>
+    {/*  */}
+  </>
+)
