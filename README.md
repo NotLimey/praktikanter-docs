@@ -18,6 +18,6 @@ Også prøver dere og endre noe i `App.tsx` filen under mappen `src` og ser endr
 ```jsx
 return (
   <>
-    {/*  */}
+    {/* content */}
   </>
 )
