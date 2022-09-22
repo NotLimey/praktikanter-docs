@@ -12,3 +12,4 @@ Legg til tailwind i prosjektet, følg denen [guiden](https://tailwindcss.com/doc
 ```
 yarn start
 ```
+Også prøver dere og endre noe i `App.tsx` filen under mappen `src` og ser endringene live på siden
